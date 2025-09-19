@@ -1,0 +1,1330 @@
+<!DOCTYPE html>
+<html lang="en" id="health_topics_by_group" class="nojs us" data-root="https://medlineplus.gov/">
+
+    <head>
+
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <meta http-equiv="window-target" content="_top" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+        
+
+        
+
+        <link rel="canonical" href="https://medlineplus.gov/kidneysandurinarysystem.html" />
+
+        
+
+  
+        <link rel="alternate" hreflang="en" href="https://medlineplus.gov/kidneysandurinarysystem.html" />
+        <link rel="alternate" hreflang="es" href="https://medlineplus.gov/spanish/kidneysandurinarysystem.html" />
+  
+
+
+
+        <meta name="ac-dictionary" content="medlineplus-ac-dictionary" />
+
+        
+
+        
+        <link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" title="The Dublin Core metadata Element Set"/>
+        <meta name="keywords" content="Kidneys and Urinary System"/>
+        <meta name="DC.Relation.IsPartOf" content="Kidneys and Urinary System">
+        
+        <meta name="DC.Subject.MeSH" content="Urogenital System"/>
+        
+        <meta name="DC.Subject.MeSH" content="Urologic Diseases"/>
+        
+        <meta name="DC.Identifier.URL" content="https://medlineplus.gov/kidneysandurinarysystem.html"/>
+        <meta name="DC.Publisher" content="National Library of Medicine"/>
+        <meta name="DC.Language" content="eng"/>
+        <meta name="DC.Type" content="Text"/>
+
+
+        <link rel="shortcut icon" href="https://medlineplus.gov/images/favicon.ico" type="image/x-icon" />
+        <link rel="apple-touch-icon" href="https://medlineplus.gov/images/touch-icon.png" />
+
+        
+        <meta property="fb:app_id" content="1042245625821448" />
+        
+
+        
+        <meta property="og:title" content="Kidneys and Urinary System: MedlinePlus" />
+        <meta property="og:url" content="https://medlineplus.gov/kidneysandurinarysystem.html" />
+        
+        
+          
+        <meta property="og:image" content="https://medlineplus.gov/images/share_topic_1.jpg" />
+          
+        <meta property="og:image" content="https://medlineplus.gov/images/share_topic_2.jpg" />
+          
+        
+        
+        
+
+        
+
+        
+
+        
+
+        <title>Kidneys and Urinary System: MedlinePlus</title>
+
+        <link rel="stylesheet" href="https://medlineplus.gov/css/common_new.css?1757995939754" />
+        <!--[if IE 8]> <link rel="stylesheet" href="https://medlineplus.gov/css/ie8/common.css"> <![endif]-->
+        <link rel="stylesheet" href="https://medlineplus.gov/uswds/css/uswds_styles.css" />
+        
+        <link rel="stylesheet" href="https://medlineplus.gov/css/tpgp.css">
+
+
+
+        
+        <script type="text/javascript">document.getElementsByTagName('html')[0].className = document.getElementsByTagName('html')[0].className.replace( /(?:^|\s)nojs(?!\S)/g , '').trim();</script>
+        <script src="https://medlineplus.gov/uswds/js/uswds-init.min.js" type="text/javascript"></script>
+
+
+        
+
+        <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-MMVM77');</script>
+    </head>
+
+    <body>
+
+        <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MMVM77"
+        height="0" width="0" style="display:none;visibility:hidden" title="googletagmanager"></iframe></noscript>
+
+        
+
+        <a name="top" id="top"></a>
+        <a class="hide-offscreen" href="#start">Skip navigation</a>
+
+  
+                                
+<section
+  class="usa-banner"
+  aria-label="Official website of the United States government"
+>
+  <div class="usa-accordion">
+    <header class="usa-banner__header">
+      <div class="usa-banner__inner">
+        <div class="grid-col-auto">
+          <img
+            aria-hidden="true"
+            class="usa-banner__header-flag"
+            src="https://medlineplus.gov/uswds/img/us_flag_small.png"
+            alt=""
+          />
+        </div>
+        <div class="grid-col-fill tablet:grid-col-auto" aria-hidden="true">
+          <p class="usa-banner__header-text">
+            An official website of the United States government
+          </p>
+          <p class="usa-banner__header-action">Here’s how you know</p>
+        </div>
+        <button
+          type="button"
+          class="usa-accordion__button usa-banner__button"
+          aria-expanded="false"
+          aria-controls="gov-banner-default-default"
+        >
+          <span class="usa-banner__button-text">Here’s how you know</span>
+        </button>
+      </div>
+    </header>
+    <div
+      class="usa-banner__content usa-accordion__content"
+      id="gov-banner-default-default"
+    >
+      <div class="grid-row grid-gap-lg">
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img
+            class="usa-banner__icon usa-media-block__img"
+            src="https://medlineplus.gov/uswds/img/icon-dot-gov.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Official websites use .gov</strong><br />A
+              <strong>.gov</strong> website belongs to an official government
+              organization in the United States.
+            </p>
+          </div>
+        </div>
+        <div class="usa-banner__guidance tablet:grid-col-6">
+          <img
+            class="usa-banner__icon usa-media-block__img"
+            src="https://medlineplus.gov/uswds/img/icon-https.svg"
+            role="img"
+            alt=""
+            aria-hidden="true"
+          />
+          <div class="usa-media-block__body">
+            <p>
+              <strong>Secure .gov websites use HTTPS</strong><br />A
+              <strong>lock</strong> (
+              <span class="icon-lock"
+                ><svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="52"
+                  height="64"
+                  viewBox="0 0 52 64"
+                  class="usa-banner__lock-image"
+                  role="img"
+                  aria-labelledby="banner-lock-description-default"
+                  focusable="false"
+                >
+                  <title id="banner-lock-title-default">Lock</title>
+                  <desc id="banner-lock-description-default">Locked padlock icon</desc>
+                  <path
+                    fill="#000000"
+                    fill-rule="evenodd"
+                    d="M26 0c10.493 0 19 8.507 19 19v9h3a4 4 0 0 1 4 4v28a4 4 0 0 1-4 4H4a4 4 0 0 1-4-4V32a4 4 0 0 1 4-4h3v-9C7 8.507 15.507 0 26 0zm0 8c-5.979 0-10.843 4.77-10.996 10.712L15 19v9h22v-9c0-6.075-4.925-11-11-11z"
+                  />
+                </svg> </span
+              >) or <strong>https://</strong> means you’ve safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+        <div id="mplus-wrap">
+            <header>
+                <div id="mplus-header">
+
+                    <div id="mplus-orgs">
+                        <a href="https://www.nih.gov/" class="nih-org" target="_blank" title="National Institutes of Health">
+                            <img class="nihlogo" src="https://medlineplus.gov/images/nihlogo.png" alt="National Institutes of Health"/>
+                        </a><a href="https://www.nlm.nih.gov/" target="_blank"> National Library of Medicine</a>
+                    </div>
+
+                    
+                    <div id="mplus-logo">
+                        <a href="https://medlineplus.gov/">
+                            <img alt="MedlinePlus Trusted Health Information for You" title="MedlinePlus Trusted Health Information for You" src="https://medlineplus.gov/images/m_logo.png"/>
+                        </a>
+                    </div>
+                    
+
+                    <div id="mplus-nav">
+
+                        <div aria-live="polite" class="sm-live-area hide-offscreen"></div>
+                        <button id="sm-menu-btn" class="navmenu-btn" title="Menu" role="button" aria-controls="mplus-menu-list" type="submit">Menu<span class="icon icon-nav-menu"></span></button>
+                        <ul id="mplus-menu-list" class="nav-list">
+                            <li><a href="https://medlineplus.gov/healthtopics.html">Health Topics</a></li>
+                            <li><a href="https://medlineplus.gov/druginformation.html">Drugs & Supplements</a></li>
+                            <li><a href="https://medlineplus.gov/genetics/">Genetics</a></li>
+                            <li><a href="https://medlineplus.gov/lab-tests/">Medical Tests</a></li>
+							<li><a href="https://medlineplus.gov/encyclopedia.html">Medical Encyclopedia</a></li>
+                            <li><a href="https://medlineplus.gov/about/">About MedlinePlus</a></li>
+                        </ul><button id="sm-search-btn" class="navmenu-btn" title="Search" role="button" aria-controls="mplus-search" type="submit"><span class="hide-offscreen"></span>Search<span class="icon icon-nav-search"></span></button>
+
+				<div class="top-1">
+
+                        <form id="mplus-search" method="get" action="https://vsearch.nlm.nih.gov/vivisimo/cgi-bin/query-meta" title="Search MedlinePlus" target="_self">
+                            
+                            <input type="hidden" name="v:project" value="medlineplus"/>
+                            <input type="hidden" name="v:sources" value="medlineplus-bundle"/>
+                            
+                            <div class="form-box text-combo">
+                                <div class="form-area"><label class="hide-offscreen" for="searchtext_primary">Search MedlinePlus</label>
+                                    <input id="searchtext_primary" class="form-text" type="text" placeholder="Search MedlinePlus" alt="#Site Search input" title="Site Search input" maxlength="400" size="40" name="query" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true"/>
+                                </div>
+                                <div class="button-area">
+                                  <button class="form-btn" title="Search MedlinePlus" alt="Search MedlinePlus" type="submit">GO</button>
+                                </div>
+                            </div>
+                        </form>
+
+                        <div class="secondarynav">
+                            <ul class="nav-list">
+                                <li><a href="https://medlineplus.gov/about/"><span>About MedlinePlus</span></a></li>
+				                <li><a href="https://medlineplus.gov/whatsnew/">What's New</a></li>
+                                <li><a href="https://medlineplus.gov/sitemap.html"><span>Site Map</span></a></li>
+                                
+                                
+                                  <li><a href="https://support.nlm.nih.gov/knowledgebase/category/?id=CAT-01231&category=medlineplus&from=https%3A//medlineplus.gov/kidneysandurinarysystem.html" target="_blank"><span>Customer Support</span></a></li>
+                                
+                            </ul>
+                        </div>
+
+				</div>
+                        <div id="mplus-nav-bar">
+                            <ul class="nav-list">
+                                <li><a href="https://medlineplus.gov/healthtopics.html">Health Topics</a></li><li><a href="https://medlineplus.gov/druginformation.html">Drugs & Supplements</a></li><li><a href="https://medlineplus.gov/genetics/">Genetics</a></li><li><a href="https://medlineplus.gov/lab-tests/">Medical Tests</a></li><li><a href="https://medlineplus.gov/encyclopedia.html">Medical Encyclopedia</a></li>
+                            </ul>
+                        </div>
+
+                        
+                            <a id="mplus-lang-toggle" href="https://medlineplus.gov/spanish/kidneysandurinarysystem.html" title="Español">Español</a>
+                        
+                    </div>
+                </div>
+            </header>
+
+            <div id="mplus-content">
+            
+<div id="breadcrumbs">
+	<div itemprop="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
+		<span class="hide-offscreen">You Are Here:</span>
+		<div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+			<a href="https://medlineplus.gov/" itemprop="item"><span itemprop="name">Home</span></a>
+			&rarr;
+			<meta itemprop="position" content="1"/>
+		</div>
+		
+			
+				<div itemscope itemprop="itemListElement" itemtype="http://schema.org/ListItem">
+					<a href="https://medlineplus.gov/healthtopics.html" itemprop="item"><span itemprop="name">Health Topics</span></a>
+					&rarr;
+					<meta itemprop="position" content="2"/>
+				</div>
+			
+		
+			
+				<div>
+				  <span>Kidneys and Urinary System</span>
+				</div>
+			
+		
+	</div>
+</div>
+<span class="page-url print-only">URL of this page: https://medlineplus.gov/kidneysandurinarysystem.html</span>
+
+                <div id="tpgp">
+                
+        <article>
+            <div class="page-info">
+
+                <div class="page-title">
+                    <a id="start" name="start"></a>
+                    <h1>Kidneys and Urinary System</h1>
+                </div>
+
+                <div class="page-actions"></div>
+                <noscript><span class="js-disabled-message">To use the sharing features on this page, please enable JavaScript.</span></noscript>
+            </div>
+            
+                
+
+                <div id="bodymap-and-listing">
+                    <p><a href="#topics">See all Kidneys and Urinary System topics</a></p>
+                    <div id="bodyarea" class="group">
+                        <div id="bodymap_region">
+                            <img id="bodyimg" src="https://medlineplus.gov/images/kidneysandurinarysystem.png"
+                            border="0" class="map" usemap="#bodymap"
+                            width="360"
+                            height="340"
+                            alt="Body Map for Kidneys and Urinary System"/>
+
+                            <map id="bodymap" name="bodymap" tabindex="-1">
+
+                            
+                                
+                                    
+                                        <area id="Bladder" shape="poly" coords="184,180,178,180,170,181,167,182,165,183,163,184,162,185,161,187,161,192,162,196,163,198,164,200,166,203,168,205,169,206,171,208,173,209,175,211,177,213,179,215,186,215,188,213,190,211,192,209,194,207,196,205,197,204,199,202,200,200,201,198,202,196,203,190,202,185,201,184,199,183,197,182,195,181,189,180,182,180"  href="#bp_65_a"
+  class="bp_65" data-maphilight='{"groupBy":".bp_65"}' alt="Bladder" tabindex="-1"/>
+
+                                    
+                                        <area id="Bladder_Label" shape="poly" coords="22,184,19,184,18,185,18,197,20,198,33,198,35,198,36,199,39,199,41,198,45,198,46,199,48,199,49,198,53,198,55,199,58,199,59,198,64,198,66,199,69,199,71,198,74,198,75,198,76,197,76,193,79,191,79,189,77,187,72,187,71,188,69,187,65,187,63,188,63,185,62,184,59,184,57,187,53,188,53,185,52,184,49,184,48,185,48,187,45,187,43,189,41,187,34,187,34,185,33,184,30,184,29,186,26,184,23,184"  href="#bp_65_a"
+  class="bp_65" data-maphilight='{"groupBy":".bp_65"}' alt="Bladder" tabindex="-1"/>
+
+                                    
+                                
+                            
+                                
+                                    
+                                        <area id="Kidney_1" shape="poly" coords="153,75,149,75,147,76,145,77,144,78,143,79,142,80,141,81,140,83,139,84,138,86,137,88,136,91,135,94,135,101,136,108,137,112,138,115,139,116,140,118,141,120,143,122,146,124,148,125,152,126,155,126,158,124,160,122,161,120,162,118,162,112,161,109,160,108,159,106,159,104,159,101,160,98,160,96,159,95,159,94,160,94,161,93,162,91,163,90,163,82,162,79,161,78,160,77,159,76,157,75,151,75"  href="#bp_63_a"
+  class="bp_63" data-maphilight='{"groupBy":".bp_63"}' alt="Kidney" tabindex="-1"/>
+
+                                    
+                                        <area id="Kidney_2" shape="poly" coords="209,67,207,67,203,68,202,69,200,70,199,72,198,73,197,76,197,82,198,84,199,86,200,87,202,88,203,89,203,91,205,94,206,95,206,97,206,100,207,103,206,104,205,106,205,111,205,112,207,115,208,116,209,117,211,118,219,118,221,117,223,116,225,114,227,111,228,109,229,105,229,91,228,85,227,83,226,80,225,78,223,75,221,73,219,71,218,70,217,69,215,68,212,67"  href="#bp_63_a"
+  class="bp_63" data-maphilight='{"groupBy":".bp_63"}' alt="Kidney" tabindex="-1"/>
+
+                                    
+                                        <area id="Kidney_Label" shape="poly" coords="40,94,39,94,38,95,38,107,39,108,42,108,43,105,45,108,68,108,68,103,69,103,69,107,71,108,82,108,82,110,83,111,89,111,93,99,93,98,92,97,88,97,87,99,85,97,76,97,74,99,72,97,64,97,64,95,63,94,60,94,59,95,59,97,56,97,54,98,54,95,53,94,46,94,43,97,43,94,40,94"  href="#bp_63_a"
+  class="bp_63" data-maphilight='{"groupBy":".bp_63"}' alt="Kidney" tabindex="-1"/>
+
+                                    
+                                
+                            
+
+                            </map>
+                        </div>
+                        <div id="bodylisting">
+                            <div id="bp_menu" >
+                                <div class="tp_rdbox">
+                                    <h3><span class="tp_blueborderspan">Select One:</span></h3>
+                                </div>
+                                <div class="tp_rdbox_bborder">
+                                    <div class="tp_rdbox_bborder_c">
+                                        <ul>
+                                            
+                                            <li>
+                                                
+                                                    <a href="#bp_65_a" id="bp_65_menu" alt="Bladder">Bladder</a>
+                                                
+                                            </li>
+                                            
+                                            <li>
+                                                
+                                                    <a href="#bp_63_a" id="bp_63_menu" alt="Kidney">Kidney</a>
+                                                
+                                            </li>
+                                            
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="bp_65">
+                                <div class="tp_rdbox">
+                                    <h3><a name="bp_65_a"></a><span>The Bladder</span></h3>
+	                            </div>
+                                <div class="tp_rdbox_bborder">
+                                    <div class="tp_rdbox_bborder_c">
+                                        <div id="back_to_selection">
+                                            <a href="javascript:void(0);" title='Back to Selection Menu' >
+                                                
+                                                    <img src="https://medlineplus.gov/images/bp_back_btn.png" alt='Back to Selection Menu' border="0">
+                                                
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <ul>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/bladdercancer.html">Bladder Cancer</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/bladderdiseases.html">Bladder Diseases</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/overactivebladder.html">Overactive Bladder</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                                                       
+                                                   </li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <div id="bp_63">
+                                <div class="tp_rdbox">
+                                    <h3><a name="bp_63_a"></a><span>The Kidneys</span></h3>
+	                            </div>
+                                <div class="tp_rdbox_bborder">
+                                    <div class="tp_rdbox_bborder_c">
+                                        <div id="back_to_selection">
+                                            <a href="javascript:void(0);" title='Back to Selection Menu' >
+                                                
+                                                    <img src="https://medlineplus.gov/images/bp_back_btn.png" alt='Back to Selection Menu' border="0">
+                                                
+                                            </a>
+                                        </div>
+                                        <div>
+                                            <ul>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/chronickidneydisease.html">Chronic Kidney Disease</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/diabetesinsipidus.html">Diabetes Insipidus</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/diabetickidneyproblems.html">Diabetic Kidney Problems</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneycancer.html">Kidney Cancer</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneycysts.html">Kidney Cysts</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneytests.html">Kidney Tests</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/kidneytransplantation.html">Kidney Transplantation</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                                                       
+                                                   </li>
+                                                
+                                                   <li>
+                                                       <a href="https://medlineplus.gov/wilmstumor.html">Wilms Tumor</a>
+                                                       
+                                                   </li>
+                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            
+                            <noscript>
+                                <div id="bp_all">
+                                    <div class="tp_rdbox"><h3><span>All Topics</span></h3></div>
+                                        <div class="tp_rdbox_bborder">
+                                            <div class="tp_rdbox_bborder_c">
+                                                <div>
+                                                    <ul>
+                                                    
+                                                        <li><a name="bp_65_a"></a><h4>Topics under Bladder</h4></li>
+                                                        
+                                                            
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/bladdercancer.html">Bladder Cancer</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/bladderdiseases.html">Bladder Diseases</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/overactivebladder.html">Overactive Bladder</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                            
+                                                        
+                                                            
+                                                        
+                                                    
+                                                        <li><a name="bp_63_a"></a><h4>Topics under Kidney</h4></li>
+                                                        
+                                                            
+                                                        
+                                                            
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/chronickidneydisease.html">Chronic Kidney Disease</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/diabetesinsipidus.html">Diabetes Insipidus</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/diabetickidneyproblems.html">Diabetic Kidney Problems</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneycancer.html">Kidney Cancer</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneycysts.html">Kidney Cysts</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneytests.html">Kidney Tests</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/kidneytransplantation.html">Kidney Transplantation</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                                <li>
+                                                                    <a href="https://medlineplus.gov/wilmstumor.html">Wilms Tumor</a>
+                                                                    
+                                                                </li>
+                                                                
+                                                            
+                                                        
+                                                    
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </noscript>
+                        </div>
+                    </div>
+                </div>
+                <a name="topics" id="topics"></a>
+            
+
+            <section>
+                
+                    <h2>Kidneys and Urinary System Topics </h2>
+                
+                <ul>
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/anatomy.html">Anatomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/bladdercancer.html">Bladder Cancer</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Bladder Control
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/bladderdiseases.html">Bladder Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Bladder Infections
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Bladder Pain Syndrome
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/chronickidneydisease.html">Chronic Kidney Disease</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                CKD
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/chronickidneydisease.html">Chronic Kidney Disease</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Colostomy
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Cystic Kidney Diseases
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneycysts.html">Kidney Cysts</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Cystitis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/diabetesinsipidus.html">Diabetes Insipidus</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/diabetickidneyproblems.html">Diabetic Kidney Problems</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Diabetic Nephropathy
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/diabetickidneyproblems.html">Diabetic Kidney Problems</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Dysuria
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                End-Stage Renal Disease
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                ESRD
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/granulomatosiswithpolyangiitis.html">Granulomatosis with Polyangiitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Hematuria
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Hemodialysis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Hypernephroma
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneycancer.html">Kidney Cancer</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Ileostomy
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Incontinence
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Infections, Bladder
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Kidney Biopsy
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneytests.html">Kidney Tests</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneycancer.html">Kidney Cancer</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneycysts.html">Kidney Cysts</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Kidney Function Tests
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneytests.html">Kidney Tests</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Kidney Infections
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneytests.html">Kidney Tests</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/kidneytransplantation.html">Kidney Transplantation</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Micturition
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Nephritis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Nephroblastoma
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/wilmstumor.html">Wilms Tumor</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Nephrolithiasis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneystones.html">Kidney Stones</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Neurogenic Bladder
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/bladderdiseases.html">Bladder Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/overactivebladder.html">Overactive Bladder</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Painful Bladder Syndrome
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/interstitialcystitis.html">Interstitial Cystitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Pee
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Peritoneal Dialysis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Polycystic Kidney Disease
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneycysts.html">Kidney Cysts</a><span>; </span><a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Proteinuria
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Pyelonephritis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Renal Cancer
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneycancer.html">Kidney Cancer</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Renal Dialysis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/dialysis.html">Dialysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Renal Disease
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneydiseases.html">Kidney Diseases</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Renal Failure
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneyfailure.html">Kidney Failure</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Renal Transplantation
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/kidneytransplantation.html">Kidney Transplantation</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Stoma
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Stress Incontinence
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Ureteral Cancer
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/ureteraldisorders.html">Ureteral Disorders</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/ureteraldisorders.html">Ureteral Disorders</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Urethral Cancer
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urethraldisorders.html">Urethral Disorders</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/urethraldisorders.html">Urethral Disorders</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Urinary Bladder Cancer
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/bladdercancer.html">Bladder Cancer</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/urinaryincontinence.html">Urinary Incontinence</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Urination
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/urineandurination.html">Urine and Urination</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Urine Tests
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinalysis.html">Urinalysis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Urostomy
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/ostomy.html">Ostomy</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                UTI
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/urinarytractinfections.html">Urinary Tract Infections</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                Wegener&#x27;s Granulomatosis
+                                <em>see</em>
+                                <a href="https://medlineplus.gov/granulomatosiswithpolyangiitis.html">Granulomatosis with Polyangiitis</a>
+                            </li>
+                        
+                    
+                        
+                            <li class="item">
+                                <a href="https://medlineplus.gov/wilmstumor.html">Wilms Tumor</a>
+                            </li>
+                        
+                    
+                </ul>
+            </section>
+        </article>
+
+                </div>
+			
+			
+            </div>
+
+            <footer>
+                <div id="mplus-footer">
+                    <div class="footer1">
+
+                        <ul class="secondarynav">
+                            <li><a href="https://medlineplus.gov/about/">About MedlinePlus</a></li>
+			    <li><a href="https://medlineplus.gov/whatsnew/">What's New</a></li>
+                            <li><a href="https://medlineplus.gov/sitemap.html">Site Map</a></li>
+                            
+                            
+                              <li><a href="https://support.nlm.nih.gov/knowledgebase/category/?id=CAT-01231&category=medlineplus&from=https%3A//medlineplus.gov/kidneysandurinarysystem.html" target="_blank"><span>Customer Support</span></a></li>
+                            
+                        </ul>
+
+
+          <ul class="follow-footer">
+                <li>
+                    <a href="https://medlineplus.gov/rss.html" class="follow-item">Subscribe to RSS<img src="https://medlineplus.gov/images/feed.png" class="social-media-toolkit-icon" alt="RSS" title="RSS"></a>
+                </li>
+                
+				<li>
+					<a href="https://www.nlm.nih.gov/socialmedia/index.html" class="follow-item" target='_blank'>Connect with NLM </a>
+				</li>
+                
+          </ul>
+                    </div>
+
+                    <div class="footer2">
+                        <ul>
+							
+							
+							<li><a href=" https://www.nlm.nih.gov/web_policies.html" target='_blank'>NLM Web Policies</a></li>
+							
+                            <li><a href="https://medlineplus.gov/about/using/usingcontent/" >Copyright</a></li>
+							
+                            <li><a href="https://medlineplus.gov/accessibility.html">Accessibility</a></li>
+                            <li><a href="https://medlineplus.gov/about/using/criteria/">Guidelines for Links</a></li>
+                            <li><a href="https://medlineplus.gov/plugins.html">Viewers & Players</a></li>
+							<li><a href="https://www.hhs.gov/vulnerability-disclosure-policy/index.html" target="_blank">HHS Vulnerability Disclosure</a></li>
+                            
+                            <li><a href="https://medlineplus.gov/medlineplus-connect/">MedlinePlus Connect for EHRs</a></li>
+                            <li><a href="https://medlineplus.gov/about/developers/">For Developers</a></li>
+                            
+                        </ul>
+
+                        <div class="address">
+                            <a href="https://www.nlm.nih.gov" target="_blank">National Library of Medicine</a>
+                            <span>8600 Rockville Pike, Bethesda, MD 20894</span>
+                            <a href="https://www.hhs.gov" target="_blank">U.S. Department of Health and Human Services</a>
+                            <a href="https://www.nih.gov" target="_blank">National Institutes of Health</a>
+                            
+                        </div>
+
+                    
+                        <div class="date">						
+														
+                            
+							
+                            
+							
+                        </div>
+                    
+
+                        <div class="return-top"><a href="#top" title="Return to top"><img class="return-top-icon" alt="Return to top" src="https://medlineplus.gov/images/return-top.png"></a></div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+
+        
+        <script src="https://medlineplus.gov/jslib/jquery-3.6.0.min.js" type="text/javascript"></script>
+        <script src="https://medlineplus.gov/jslib/mplus-frontend-controls-new.js" type="text/javascript"></script>
+        <script src="https://medlineplus.gov/jslib/mplus-share.js?id=1112022" type="text/javascript"></script>
+        <!--[if lte IE 9]><script src="//www.nlm.nih.gov/medlineplus/jslib/jquery.placeholder.js" type="text/javascript"></script><![endif]-->
+        <script src="https://medlineplus.gov/jslib/control.js" type="text/javascript"></script>
+        <script src="https://medlineplus.gov/uswds/js/uswds.min.js" type="text/javascript"></script>
+        
+
+
+        
+    </body>
+</html>

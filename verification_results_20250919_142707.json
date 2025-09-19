@@ -1,0 +1,119 @@
+{
+  "total_tests": 5,
+  "grounded_responses": 0,
+  "low_risk_responses": 0,
+  "test_details": [
+    {
+      "query": "What are the symptoms of diabetes?",
+      "category": "symptoms",
+      "is_grounded": false,
+      "hallucination_risk": "HIGH",
+      "verification_score": 0.0,
+      "expected_keywords": [
+        "thirst",
+        "urination",
+        "weight loss",
+        "fatigue"
+      ],
+      "found_keywords": [
+        "thirst",
+        "urination",
+        "fatigue"
+      ],
+      "keyword_match_rate": 0.75,
+      "sources_used": 5,
+      "verified_sources": 0
+    },
+    {
+      "query": "How is high blood pressure treated?",
+      "category": "treatment",
+      "is_grounded": false,
+      "hallucination_risk": "HIGH",
+      "verification_score": 0.0,
+      "expected_keywords": [
+        "medication",
+        "lifestyle",
+        "diet",
+        "exercise"
+      ],
+      "found_keywords": [
+        "medication",
+        "lifestyle",
+        "diet",
+        "exercise"
+      ],
+      "keyword_match_rate": 1.0,
+      "sources_used": 5,
+      "verified_sources": 0
+    },
+    {
+      "query": "What causes heart disease?",
+      "category": "causes",
+      "is_grounded": false,
+      "hallucination_risk": "HIGH",
+      "verification_score": 0.0,
+      "expected_keywords": [
+        "cholesterol",
+        "smoking",
+        "diabetes",
+        "genetics"
+      ],
+      "found_keywords": [
+        "cholesterol",
+        "smoking",
+        "diabetes",
+        "genetics"
+      ],
+      "keyword_match_rate": 1.0,
+      "sources_used": 5,
+      "verified_sources": 0
+    },
+    {
+      "query": "How to prevent stroke?",
+      "category": "prevention",
+      "is_grounded": false,
+      "hallucination_risk": "HIGH",
+      "verification_score": 0.0,
+      "expected_keywords": [
+        "blood pressure",
+        "exercise",
+        "diet",
+        "smoking"
+      ],
+      "found_keywords": [
+        "blood pressure",
+        "exercise",
+        "diet",
+        "smoking"
+      ],
+      "keyword_match_rate": 1.0,
+      "sources_used": 5,
+      "verified_sources": 0
+    },
+    {
+      "query": "What is the treatment for depression?",
+      "category": "mental_health",
+      "is_grounded": false,
+      "hallucination_risk": "HIGH",
+      "verification_score": 0.0,
+      "expected_keywords": [
+        "therapy",
+        "medication",
+        "counseling",
+        "support"
+      ],
+      "found_keywords": [
+        "therapy",
+        "medication",
+        "support"
+      ],
+      "keyword_match_rate": 0.75,
+      "sources_used": 5,
+      "verified_sources": 0
+    }
+  ],
+  "grounding_rate": 0.0,
+  "low_risk_rate": 0.0,
+  "average_verification_score": 0.0,
+  "average_keyword_match": 0.9
+}
