@@ -1,6 +1,6 @@
-# 🏥 Personalized Health Chatbot
+# 🏥 MediQ Health Advisor
 
-An AI-powered health chatbot with Retrieval-Augmented Generation (RAG) for accurate and sourced health information.
+An intelligent health assistant with personalized medical information and evidence-based responses powered by RAG technology.
 
 ## 🚀 Features
 
